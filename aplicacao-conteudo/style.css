@@ -1,0 +1,115 @@
+body {
+    font-family: 'Montserrat', sans-serif;  
+}
+
+header {
+    background: rgb(3, 139, 180);
+    box-shadow: -1px 2px 30px 0 black;
+}
+
+.links {
+    position: absolute;
+    top: 10%;
+    right: 15%;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(159, 207, 230);
+    margin: 0 0 0 20px;
+}
+
+.itens-header {
+    display: inline;
+    font-size: 20px;
+}
+
+.titulo-principal {
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+    margin: 2em 0 1em 0;
+}
+
+.texto-apresentação {
+    
+    text-align: center;
+    font-size: 18px;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.texto-qualidades {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.texto-qualidades ul {
+    width: 60%;
+    margin: 1.5% 0 5% 10%;
+}
+
+.itens {
+    line-height: 1.5em;
+}
+
+.itens::before {
+    content:' ☛';
+}
+
+.imagem-qualidades {
+    width: 40%;
+    float: right;
+}
+
+footer {
+    background: rgb(48, 48, 48);
+    clear: right;
+
+}
+
+footer p {
+    position: relative;
+    background-color: rgb(58, 58, 58);
+    padding: 0.5em 0 1em 0;
+    text-align: center;
+    color: rgb(243, 243, 243);
+}
+
+div.op1 {
+    width: 38%;
+    display: inline-block;
+    font-size: 3vw;
+    text-align: center;
+    padding: 2vw 0vw 2vw 0vw;
+    min-width:40vw;
+}
+
+.op1 img {
+    width: 38%;
+}
+
+div.op2 {
+    width: 15%;
+    display: inline-block;
+    margin-right: 0vw;
+    font-size: 1vw;
+    text-align: right;
+    padding: 2vw 0vw 2vw 0vw;
+    min-width:40vw;
+    float:right;
+}
+
+.op2 p, .op2 a {
+    text-decoration: none;
+    color: wheat;
+    background: transparent;
+    text-align: left;
+    padding: 1vw 2vw 1vw 0;
+    vertical-align: bottom;
+}
+
+.op2 p img {
+    width: 40px;     
+}
+
