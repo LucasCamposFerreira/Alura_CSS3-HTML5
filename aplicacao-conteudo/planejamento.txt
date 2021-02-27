@@ -1,0 +1,18 @@
+o que a pág. principal tem q ter:
+    cabeçalho com navegação entre pags,
+    foto/referência a pessoa "Lucas".
+
+    "Sobre mim",
+
+        titulo,
+        paragrafos me descrevendo,
+        imagem ilustrativa.
+    Qualidades,
+        lista de Qualidades,
+        imagem ilustrativa
+    algumas fts/vídeos.
+        item será colocado posteriormente
+
+    um rodapé.
+        direitos autorais sobre a pag
+        logo centralizada
